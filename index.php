@@ -27,7 +27,7 @@
           <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
             <li><a class="dropdown-item" href="schematics">Schematics</a></li>
             <li><a class="dropdown-item" href="parts">Parts</a></li>
-            <li><a class="dropdown-item" href="/command.html">Command</a></li>
+            <li><a class="dropdown-item" href="command.html">Command</a></li>
             <li><a class="dropdown-item" href="financial">Financial</a></li>
             <li><hr class="dropdown-divider"></li>
             <li><a class="dropdown-item" href="tasks">Tasks</a></li>

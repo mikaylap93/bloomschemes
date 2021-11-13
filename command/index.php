@@ -5,8 +5,6 @@
     <title></title>
   </head>
   <body>
-
     <h1>Command</h1>
-
   </body>
 </html>
